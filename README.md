@@ -140,6 +140,10 @@ All evidence screenshots are located in the `/evidence` folder:
 - **Screenshots 1–2:** `curl` terminal output showing disclosed headers (`x-powered-by`, `server`, `platform`, `panel`)
 - **Screenshots 3–5:** SecurityHeaders.com scan results showing Grade D, missing headers list, and raw header values
 
+
+[Vulnerability_Assessment_Report_futureinterns.pdf](https://github.com/user-attachments/files/26674943/Vulnerability_Assessment_Report_futureinterns.pdf)
+
+
 ---
 
 ## 📖 What I Learned
