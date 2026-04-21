@@ -141,7 +141,8 @@ All evidence screenshots are located in the `/evidence` folder:
 - **Screenshots 3–4:** SecurityHeaders.com scan results showing Grade D, missing headers list, and raw header values
 
 
-[Vulnerability_Assessment_Report_futureinterns.pdf](https://github.com/user-attachments/files/26674943/Vulnerability_Assessment_Report_futureinterns.pdf)
+[Vulnerability_Assessment_Report_futureinterns.docx](https://github.com/user-attachments/files/26925165/Vulnerability_Assessment_Report_futureinterns.docx)
+
 
 
 ---
